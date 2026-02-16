@@ -2,7 +2,7 @@
 
 Проект "**Каталог товаров**"
 
-`backend`: FastAPI, SQLModel
+`backend`: FastAPI, SQLModel, TS
 
 `database`: PostgreSQL
 
